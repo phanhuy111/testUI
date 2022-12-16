@@ -1,0 +1,32 @@
+
+
+.App-wrapper{
+  flex: 0.8 1;
+}
+
+.App-content{
+  width: 100%;
+}
+
+.App-sidebar {
+  flex: 0.2;
+  height: 100vh;
+  background-color:#282c34;
+}
+
+.App-sidebar-menu{
+  color: #F8FAFC;
+  list-style: none;
+  width: 100%;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.App-header-icons{
+  cursor: pointer;
+}
+
+.App-link {
+  color: #61dafb;
+}
